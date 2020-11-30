@@ -1,7 +1,9 @@
 # DotsandBoxes
 
 ## Prerequisites
-```pip install -r requirements.txt```
+```
+pip install -r requirements.txt
+```
 
 ## Usage
 Run `server.py` and input the `Host` and `Port`.  
