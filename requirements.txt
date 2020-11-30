@@ -1,0 +1,6 @@
+certifi==2020.6.20
+numpy==1.19.3    
+PodSixNet==0.11.0
+pygame==2.0.0    
+rencode==1.0.6   
+wincertstore==0.2
